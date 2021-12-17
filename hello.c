@@ -10,10 +10,7 @@ int main(int argc, char *argv[])
 {
 	int i;
 	struct str_str table[] = {
-		{ "foo", "Hello, World!\n" },
-		{ "bar", "SAZANAMI BIGWAVE!\n" },
-		{ "bo", "Bobobo-bo Bo-bobo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n" },
-		{ "je", "jeed-kun\n" },
+		{ "ababa", "ANYOYO MARUBOBO\n" },
 	};
 
 	if (argc >= 2)
